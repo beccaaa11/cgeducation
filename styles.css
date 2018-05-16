@@ -50,6 +50,16 @@ padding-top:20px;
 
 }
 
+.teacherimg{
+border: 4px black solid;
+border-radius: 30px;
+float:left;
+height:70px;
+width:70px;
+
+
+}
+
 
 .container, .container2, .container3, .container4, .container5{
   display:flex;
